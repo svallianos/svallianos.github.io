@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		  <meta charset="UTF-8" />
+		    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		      <title>Steve Vallianos | Cloud & SysOps Engineer</title>
+		        <style>
+    body {
+	          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+		        background: linear-gradient(145deg, #0f2027, #203a43, #2c5364);
+			      color: #f1f1f1;
+			            display: flex;
+				          flex-direction: column;
+					        align-items: center;
+						      justify-content: center;
+						            height: 100vh;
+							          margin: 0;
+								        text-align: center;
+									    }
+        h1 {
+		      font-size: 2.5rem;
+		            margin-bottom: 0.5rem;
+			        }
+	    p {
+		          font-size: 1.1rem;
+			        max-width: 600px;
+				    }
+	        .terminal {
+			      background-color: rgba(0, 0, 0, 0.7);
+			            color: #00ff95;
+				          padding: 1rem 2rem;
+					        font-family: 'Courier New', Courier, monospace;
+						      margin-top: 2rem;
+						            border-radius: 8px;
+							        }
+		    footer {
+			          position: absolute;
+				        bottom: 1rem;
+					      font-size: 0.8rem;
+					            color: #ccc;
+						        }
+		      </style>
+	</head>
+	<body>
+		  <h1>🚧 Site Deployment in Progress</h1>
+		    <p>This site is currently under active development by Steve Vallianos, a cloud systems engineer focused on reliable infrastructure, automation, and proactive ops.</p>
+		      
+		      <div class="terminal">
+			          [status] service: web_frontend<br />
+				      [status] build: initializing static asset pipeline...<br />
+				          [log] generating fresh content with PowerShell magic 💥<br />
+					      [status] ETA: coming soon.
+					        </div>
+
+						  <footer>
+							      &copy; 2025 Steve Vallianos • SysOps meets style
+							        </footer>
+	</body>
+</html>
